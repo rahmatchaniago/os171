@@ -1,0 +1,1 @@
+- learning about basic github, remote to badak.cs.ui.ac.id and push/pull repository
