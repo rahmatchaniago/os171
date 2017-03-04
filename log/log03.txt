@@ -1,0 +1,4 @@
+w02-170214-19-LR-About: learning about system boot, From: Lecturer
+w02-170214-19-LR-About: learning about system boot, From: Lecturer
+w02-170214-19-PS-About: LAB how to use mutliple OS using GRUB, From: Lecturer
+w02-170214-19-PS-About: LAB how to use mutliple OS using GRUB, From: Lecturer
