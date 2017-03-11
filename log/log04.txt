@@ -1,4 +1,4 @@
-w02-170214-19-LR-About: learning about pointer, From: Lecturer
-w02-170214-19-LR-About: learning about pointer, From: Lecturer
-w02-170214-19-PS-About: LAB about programming pointer and address pointer, From: Lecturer
-w02-170214-19-PS-About: LAB about programming pointer and address pointer, From: Lecturer
+w02-170307-19-LR-About: learning about pointer, From: Lecturer
+w02-170307-19-LR-About: learning about pointer, From: Lecturer
+w02-170307-19-PS-About: LAB about programming pointer and address pointer, From: Lecturer
+w02-170307-19-PS-About: LAB about programming pointer and address pointer, From: Lecturer
